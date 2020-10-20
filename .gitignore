@@ -1,0 +1,20 @@
+/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build
+/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/cmake-build-debug
+
+/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Camera/TTC_camera/cmake-build-debug
+/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/build
+/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/cmake-build-debug
+
+/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching/build
+/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching/cmake-build-debug
+
+/Lesson 4 - Tracking Image Features/Gradient-based vs. Binary Descriptors/describe_keypoints/cmake-build-debug
+
+/Lesson 4 - Tracking Image Features/Harris Corner Detection/cornerness_harris/build
+/Lesson 4 - Tracking Image Features/Harris Corner Detection/cornerness_harris/cmake-build-debug
+
+/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/build
+/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/cmake-build-debug
+
+/Lesson 4 - Tracking Image Features/Overview of Popular Keypoint Detectors/detect_keypoints/build
+/Lesson 4 - Tracking Image Features/Overview of Popular Keypoint Detectors/detect_keypoints/cmake-build-debug
